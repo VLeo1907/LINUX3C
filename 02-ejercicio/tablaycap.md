@@ -1,0 +1,8 @@
+
+carpeta/archivo	permisos
+docs	    775
+logs	    775
+src	        775
+README.txt	664
+
+![alt text](lah.captura-1.png)
